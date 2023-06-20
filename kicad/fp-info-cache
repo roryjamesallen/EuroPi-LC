@@ -1,4 +1,81 @@
-21772024332230712
+21753918514231303
+Allen Synthesis
+jack-6.35mm-PJ612A
+
+
+0
+5
+5
+Allen Synthesis
+jack-thonkiconn-mono
+
+
+0
+3
+3
+Allen Synthesis
+jack-thonkiconn-stereo
+
+
+0
+3
+3
+Allen Synthesis
+led-3mm
+
+
+0
+2
+2
+Allen Synthesis
+potentiometer-9mm
+
+
+0
+3
+3
+Allen Synthesis
+potentiometer-9mm_2hp
+
+
+0
+3
+3
+Allen Synthesis
+power-header-10-pin
+
+
+0
+10
+10
+Allen Synthesis
+power-header-10-pin-unlabelled
+
+
+0
+10
+10
+Allen Synthesis
+power-header-16-pin
+
+
+0
+16
+16
+Allen Synthesis
+power-header-16-pin-unlabelled
+
+
+0
+16
+16
+Allen Synthesis
+switch-momentary-c&k
+
+
+0
+4
+4
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6390,6 +6467,13 @@ connector JWT A3963 pinhead
 0
 2
 2
+Connector
+Joint-Tech_C5080WR-04P_1x04_P5.08mm_Vertical
+C5080 SERIES 90° Wafer, (https://datasheet.lcsc.com/lcsc/1912261836_HR-Joint-Tech-Elec-C5080WR-04P_C477015.pdf)
+connector side-entry ATA PATA IDE 5.25 inch floppy drive power
+0
+6
+5
 Connector
 NS-Tech_Grove_1x04_P2mm_Vertical
 https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf
@@ -46921,6 +47005,13 @@ USB Type-C Plug Edge Mount
 24
 23
 Connector_USB
+USB_C_Plug_ShenzhenJingTuoJin_918-118A2021Y40002_Vertical
+Low-profile vertical USB 2.0 Type C Plug Shenzhen Jing Tuo Jin Electronics Co 918-118A2021Y40002 ( https://datasheet.lcsc.com/lcsc/1912111437_Jing-Extension-of-the-Electronic-Co--918-118A2021Y40002_C399939.pdf ) also compatible with Korean HRO Parts Elec TYPE-C-31-G-06
+type-c usb2
+0
+18
+17
+Connector_USB
 USB_C_Receptacle_Amphenol_12401548E4-2A
 USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
 USB C Type-C Receptacle Hybrid
@@ -46959,6 +47050,13 @@ Connector_USB
 USB_C_Receptacle_G-Switch_GT-USB-7010ASV
 USB Type C, right-angle, SMT, https://datasheet.lcsc.com/lcsc/2204071530_G-Switch-GT-USB-7010ASV_C2988369.pdf
 USB C Type-C Receptacle SMD
+0
+20
+17
+Connector_USB
+USB_C_Receptacle_G-Switch_GT-USB-7051x
+USB Type C, vertical, SMT, https://datasheet.lcsc.com/lcsc/2108072030_G-Switch-GT-USB-7051A_C2843970.pdf
+USB C Type-C Receptacle SMD GT-USB-7051A GT-USB-7051B
 0
 20
 17
@@ -50009,11 +50107,11 @@ traco dcdc tht 15w
 9
 Converter_DCDC
 Converter_DCDC_TRACO_THN30-xxxx_THT
-DCDC-Converter TRACO THN 10 to 30W, Single or dual Output, (https://www.tracopower.com/sites/default/files/products/datasheets/thn15wi_datasheet.pdf)
+DCDC-Converter TRACO THN 10 to 30W, Single or dual Output, (https://www.tracopower.com/sites/default/files/products/datasheets/thn30_datasheet.pdf)
 DCDC-Converter TRACO THN30 Generic
 0
 6
-5
+6
 Converter_DCDC
 Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT
 DCDC-Converter, TRACO, TMR 1-xxxx, Dual output, Rev. March 21.2016
@@ -50154,6 +50252,20 @@ DCDC-Converter XP_POWER JTE06 Dual
 0
 8
 8
+Converter_DCDC
+Converter_DCDC_muRata_MEJ1DxxxxSC_THT
+muRata MEJ1DxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 1W, dual output, SIP package style, https://power.murata.com/data/power/ncl/kdc_mej1.pdf
+muRata MEJ1D DCDC-Converter
+0
+5
+5
+Converter_DCDC
+Converter_DCDC_muRata_MEJ1SxxxxSC_THT
+muRata MEJ1SxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 1W, single output, SIP package style, https://power.murata.com/data/power/ncl/kdc_mej1.pdf
+muRata MEJ1S DCDC-Converter
+0
+4
+4
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
@@ -51953,6 +52065,13 @@ TVS protection diodes
 0
 2
 2
+Diode_SMD
+Vishay_SMPA
+Diode SMPA (DO-221BC), https://www.vishay.com/docs/87659/v8pa10.pdf
+Diode SMPA (DO-221BC)
+0
+2
+2
 Diode_THT
 D_5KPW_P7.62mm_Vertical_AnodeUp
 Diode, 5KPW series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
@@ -53374,405 +53493,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-Eurorack
-6mm Tactile Switch
-
-
-0
-4
-4
-Eurorack
-128x64 SSD1306 OLED No Breakout
-
-
-0
-32
-31
-Eurorack
-128x64 SSD1306 OLED No Breakout No Outline
-
-
-0
-32
-31
-Eurorack
-Adafruit 1.14in 240x135 Color TFT Display ST7789
-
-
-0
-11
-11
-Eurorack
-C2927030 USB-C Connector
-
-
-0
-10
-7
-Eurorack
-CN22155 USB 2.0 Female Connector
-
-
-0
-6
-5
-Eurorack
-Capacitor Small Non-Polarised
-
-
-0
-2
-2
-Eurorack
-Capacitor Small Polarised
-
-
-0
-2
-2
-Eurorack
-DIP-8 IC Socket
-
-
-0
-8
-8
-Eurorack
-DIP-14 IC Socket
-14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
-0
-14
-14
-Eurorack
-Daisy Patch Submodule
-
-
-0
-40
-40
-Eurorack
-Enoki OLED SSD1306 128x64
-
-
-0
-12
-9
-Eurorack
-Eurorack Power Header
-
-
-0
-10
-10
-Eurorack
-Eurorack Power Header 16 Pin
-
-
-0
-16
-16
-Eurorack
-Eurorack Power Header 16 Pin Unlabeled
-
-
-0
-16
-16
-Eurorack
-Eurorack Power Header Unlabeled
-
-
-0
-10
-10
-Eurorack
-Eurorack Power Header Unlabeled Half
-
-
-0
-5
-5
-Eurorack
-Header 01x05 2.0mm Right Angle Female
-
-
-0
-5
-5
-Eurorack
-Header 01x05 2.0mm Right Angle Male
-
-
-0
-5
-5
-Eurorack
-Header 01x07 2.0mm Right Angle Female
-
-
-0
-7
-7
-Eurorack
-Header 01x07 2.0mm Right Angle Male
-
-
-0
-7
-7
-Eurorack
-Header 01x12 2.0mm Right Angle Female
-
-
-0
-12
-12
-Eurorack
-Header 01x12 2.0mm Right Angle Male
-
-
-0
-12
-12
-Eurorack
-LED 3mm
-
-
-0
-2
-2
-Eurorack
-LED 3mm-SMD
-
-
-0
-4
-4
-Eurorack
-MDOB064032AV-WI SSD1306 64x32 OLED
-
-
-0
-4
-4
-Eurorack
-Micro USB
-Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
-USB USB_B USB_micro USB_OTG
-0
-17
-6
-Eurorack
-OLED SSD1306 0.91
-
-
-0
-4
-4
-Eurorack
-PB01-109TL low Profile Illuminated Button
-
-
-0
-6
-6
-Eurorack
-PJ612A 6.35mm Jack
-
-
-0
-5
-5
-Eurorack
-Pimoroni Tiny2040
-
-
-0
-19
-19
-Eurorack
-PinHeader_1x08_P2.54mm_Vertical
-Through hole straight pin header, 1x08, 2.54mm pitch, single row
-Through hole pin header THT 1x08 2.54mm single row
-0
-8
-8
-Eurorack
-Potentiometer 9mm Vertical Linear
-
-
-0
-3
-3
-Eurorack
-Potentiometer 9mm Vertical Linear Centred
-
-
-0
-3
-3
-Eurorack
-Potentiometer 20mm Slide Linear
-
-
-0
-3
-3
-Eurorack
-Potentiometer 45mm Slide Audio
-
-
-0
-10
-7
-Eurorack
-RGB LED
-
-
-0
-4
-4
-Eurorack
-Raspberry Pi Pico
-
-
-0
-40
-40
-Eurorack
-Raspberry Pi Pico SMD
-
-
-0
-43
-43
-Eurorack
-Resistor 0.25W Through-Hole
-
-
-0
-2
-2
-Eurorack
-Resistor 0.25W Through-Hole Short
-
-
-0
-2
-2
-Eurorack
-SHOU HAN USB C Connector Vertical
-
-
-0
-8
-7
-Eurorack
-Schottky Diode
-Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Eurorack
-Single Pad
-
-
-0
-1
-1
-Eurorack
-Sub-Miniature Toggle Switch DPDT
-
-
-0
-6
-6
-Eurorack
-Sub-Miniature Toggle Switch SPDT
-
-
-0
-3
-3
-Eurorack
-Switch Tactile Momentary C&K
-
-
-0
-4
-4
-Eurorack
-TS-1187A-B-A-B
-
-
-0
-4
-4
-Eurorack
-Thonkiconn Dual
-
-
-0
-11
-5
-Eurorack
-Thonkiconn Mono Jack
-
-
-0
-3
-3
-Eurorack
-Thonkiconn Stereo Jack
-
-
-0
-3
-3
-Eurorack
-Thonkiswitchpot
-
-
-0
-13
-12
-Eurorack
-Thonkiswitchpot Mirrored
-
-
-0
-13
-12
-Eurorack
-USB_A_Molex_67643_Horizontal
-USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf
-USB_A Female Connector receptacle
-0
-6
-5
-Eurorack
-Yiyuan Pogo Pin (JLC)
-
-
-0
-1
-1
-Eurorack
-eurorack_panel_6hp
-
-
-0
-0
-0
-Eurorack
-simple-1u-power-adapter
-
-
-0
-3
-3
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -56070,6 +55790,13 @@ Inductor xal
 2
 2
 Inductor_SMD
+L_Coilcraft_XFL2010
+Coilcraft XFL2010, Shielded power inductor, 0808, 1.9x2.0mm, https://www.coilcraft.com/getmedia/50382b97-998f-4b75-b5ee-4a93b0ac4411/xfl2010.pdf
+miniature
+0
+2
+2
+Inductor_SMD
 L_Coilcraft_XxL4020
 L_Coilcraft_XxL4020 https://www.coilcraft.com/pdfs/xfl4020.pdf
 L Coilcraft XxL4020
@@ -58031,7 +57758,7 @@ chokes schaffner tht
 4
 Inductor_THT
 Choke_Schaffner_RN112-04-17.7x17.1mm
-Current-compensated Chokes, Schaffner, RN112-04, 17.7mmx17.1mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/
+Current-compensated Chokes, Schaffner, RN112-04, 17.7mmx17.1mm https://www.schaffner.com/fileadmin/user_upload/pim/products/datasheets/RN_series.pdf
 chokes schaffner tht
 0
 4
@@ -70280,6 +70007,13 @@ Texas RSE0010 UQFN NoLead
 10
 10
 Package_DFN_QFN
+Texas_VQFN-HR-20_3x2.5mm_P0.5mm_RQQ0011A
+Texas  VQFN-HR, 11 Pin, https://www.ti.com/lit/ml/mpqf579/mpqf579.pdf
+RQQ0011A
+0
+15
+11
+Package_DFN_QFN
 Texas_VQFN-RHL-20
 http://www.ti.com/lit/ds/symlink/bq51050b.pdf
 RHL0020A
@@ -73184,6 +72918,13 @@ NXP LGA NoLead
 0
 8
 8
+Package_LGA
+Rohm_MLGA010V020A_LGA-10_2x2mm_P0.45mm_LayoutBorder_3x2y
+Rohm  LGA, 10 Pin (https://fscdn.rohm.com/en/techdata_basic/ic/package/Jisso_MLGA010V020A-1-2_Rev005s_E2(MSL3).pdf)
+Rohm LGA NoLead
+0
+10
+10
 Package_LGA
 ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y
 ST  HLGA, 10 Pin (https://www.st.com/resource/en/datasheet/lps25hb.pdf#page=46), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -76307,6 +76048,13 @@ PowerDI 0.65
 13
 5
 Package_SON
+Diodes_PowerDI3333-8_UXC_3.3x3.3mm_P0.65mm
+Diodes Incorporated PowerDI3333-8 UXC, 3.05x3.05x0.8mm Body, https://www.diodes.com/assets/Package-Files/PowerDI3333-8%20(Type%20UXC).pdf
+PowerDI 0.65
+0
+6
+6
+Package_SON
 Fairchild_DualPower33-6_3x3mm
 Fairchild Power33 MOSFET package, 3x3mm (see https://www.fairchildsemi.com/datasheets/FD/FDMC8032L.pdf)
 mosfet
@@ -76579,6 +76327,13 @@ USON-20 2x4mm Pitch 0.4mm
 0
 20
 20
+Package_SON
+VSON-8_1.5x2mm_P0.5mm
+VSON, 8 Pin (http://www.ti.com/lit/ds/symlink/tps62840.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
+VSON NoLead
+0
+8
+8
 Package_SON
 VSON-8_3.3x3.3mm_P0.65mm_NexFET
 8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf
@@ -81697,8 +81452,8 @@ Kemet EC2 signal relay DPDT double dual coil latching through hole THT
 10
 10
 Relay_THT
-Relay_DPDT_Omron_G2RL
-Omron Relay DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Relay_DPDT_Omron_G2RL-2
+Omron Relay, DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
 Omron Relay DPDT
 0
 8
@@ -81770,6 +81525,13 @@ Relay_THT
 Relay_DPST_Fujitsu_FTR-F1A
 https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf
 relay dpst fujitsu tht
+0
+6
+6
+Relay_THT
+Relay_DPST_Omron_G2RL-2A
+Omron Relay, DPST, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay DPST
 0
 6
 6
@@ -81863,6 +81625,20 @@ Relay SPDT Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g
 Relay SPDT Omron Serie G5Q
 0
 5
+5
+Relay_THT
+Relay_SPDT_Omron_G2RL-1
+Omron Relay, SPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPDT
+0
+5
+5
+Relay_THT
+Relay_SPDT_Omron_G2RL-1-E
+Omron Relay, SPDT, High Capacity, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPDT High Capacity
+0
+8
 5
 Relay_THT
 Relay_SPDT_Omron_G5V-1
@@ -81982,6 +81758,20 @@ Relay SPST-NO Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/e
 Relay SPST-NO Omron Serie G5Q
 0
 4
+4
+Relay_THT
+Relay_SPST_Omron_G2RL-1A
+Omron Relay, SPST, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPST
+0
+4
+4
+Relay_THT
+Relay_SPST_Omron_G2RL-1A-E
+Omron Relay, SPST, High Capacity,  https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPST High Capacity
+0
+6
 4
 Relay_THT
 Relay_SPST_Panasonic_JW1_FormA
@@ -90593,45 +90383,3 @@ varistor
 0
 2
 2
-XIAO_PCB
-MOUDLE14P-2.54-21X17.8MM
-
-
-0
-14
-14
-XIAO_PCB
-MOUDLE14P-SMD-2.54-21X17.8MM
-
-
-0
-14
-14
-allensynthesis
-eurorack-power-header-10-pin
-
-
-0
-10
-10
-allensynthesis
-led-3mm
-
-
-0
-2
-2
-allensynthesis
-potentiometer-9mm
-
-
-0
-3
-3
-allensynthesis
-potentiometer-9mm_2hp
-
-
-0
-3
-3
