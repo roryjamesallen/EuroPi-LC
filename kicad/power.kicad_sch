@@ -964,7 +964,7 @@
     (property "Value" "Conn_02x05_Odd_Even" (at 38.1 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Eurorack:Eurorack Power Header Unlabeled" (at 39.37 41.91 0)
+    (property "Footprint" "allen-synthesis:power-header-10-pin-unlabelled" (at 39.37 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 39.37 41.91 0)
