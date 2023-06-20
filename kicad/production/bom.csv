@@ -1,20 +1,21 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
+Designator,Footprint,Quantity,Value,LCSC Part #
 "C1, C2",0603,2,10u,C96446
-"C10, C11, C12, C3, C4, C5, C6, C7, C8, C9",0402,10,100n,C307331
+"C10, C11, C3, C4, C5, C6, C7, C8, C9",0402,9,100n,C307331
 "D2, D3",D_SOD-123,2,D,C8598
-J1,Eurorack Power Header Unlabeled,1,Conn_02x05_Odd_Even,
-"J4, J5, J6, J7, J8, J9",Thonkiconn Mono Jack,6,Thonkiconn,
+J1,power-header-10-pin-unlabelled,1,Conn_02x05_Odd_Even,
+"J4, J5, J6, J7, J8, J9",jack-thonkiconn-mono,6,Thonkiconn,
 "LED1, LED2, LED3, LED4",led-3mm,4,LED,
-"P1, P2",Potentiometer 9mm Vertical Linear Centred,2,Potentiometer_9mm_Vertical_Linear,
+"P1, P2",potentiometer-9mm,2,Potentiometer_9mm_Vertical_Linear,
+Q1,SOT-23,1,S8050,
 "R1, R11, R12, R17, R18, R2, R27, R7, R8",0402,9,1K,C11702
 "R10, R19, R20, R9",0402,4,5K6,C25908
 "R13, R14, R3, R4",0402,4,33K,C25779
 "R15, R16, R5, R6",0402,4,75K,C25798
-"R21, R22, R23, R24",0402,4,100K,C25741
-"R25, R26",0402,2,47K,C25792
+"R21, R22, R23, R24, R28",0402,5,100K,C25741
+"R25, R26, R29",0402,3,47K,C25792
 "SW1, SW2",PB01-109TL low Profile Illuminated Button,2,SW_Push_LED,
 U1,SOIC-14_3.9x8.7mm_P1.27mm,1,TL074,
 U2,SOIC-8_3.9x4.9mm_P1.27mm,1,MCP6002-xSN,
 U3,SOT-89-3,1,~,C71136
-U4,MOUDLE14P-2.54-21X17.8MM,1,MOUDLE-SEEEDUINO-XIAO,
-U5,SOIC-16_3.9x9.9mm_P1.27mm,1,MCP3208,
+U4,MOUDLE14P-2.54-21X17.8MM,1,SEEEDUINO-XIAO,
+"U5, U6, U7",TSOT-23-6,3,ADC121C027CIMK,
