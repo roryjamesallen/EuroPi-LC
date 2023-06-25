@@ -1,5 +1,8 @@
 # EuroPi LC
-### A Low-Cost Hardware Version of the [EuroPi](https://github.com/Allen-Synthesis/EuroPi)
+### A Low-Cost Hardware Version of the [EuroPi](https://github.com/Allen-Synthesis/EuroPi)  
+
+  
+![image](https://github.com/roryjamesallen/EuroPi-LC/assets/79809962/0d97c842-1ffb-4455-b70e-bad94a6618d9)
 
 Hardware specifications:
 - 4x Outputs (0-10V, smoothed PWM, each with indicator LED)
